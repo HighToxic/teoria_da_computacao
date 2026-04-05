@@ -6,7 +6,7 @@
    
    b) Guerra Fria
 
-   c) Segunda Guerra Mundial
+   $\color{red}{\text{c) Segunda Guerra Mundial}}$
    
    d) Guerra do Vietnã
 
@@ -14,7 +14,7 @@
    
    a) Pentágono
    
-   b) Bletchley Park
+   $\color{red}{\text{b) Bletchley Park}}$
    
    c) CIA
    
@@ -24,7 +24,7 @@
    
    a) Alan Turing
    
-   b) Tom Jericho
+   $\color{red}{\text{b) Tom Jericho}}$
    
    c) Winston Churchill
    
@@ -32,7 +32,7 @@
 
 4. A personagem interpretada por Kate Winslet se chama:
    
-   a) Hester Wallace
+   $\color{red}{\text{a) Hester Wallace}}$
    
    b) Claire Romilly
    
@@ -48,13 +48,13 @@
    
    c) Bombe
    
-   d) Enigma
+   $\color{red}{\text{d) Enigma}}$
 
 6. O grande desafio dos criptógrafos no filme é:
     
    a) Construir uma bomba nuclear
    
-   b) Decifrar códigos militares alemães
+   $\color{red}{\text{b) Decifrar códigos militares alemães}}$
    
    c) Invadir Berlim
    
@@ -66,7 +66,7 @@
    
    b) Física nuclear
    
-   c) Matemática e criptografia
+   $\color{red}{\text{c) Matemática e criptografia}}$
    
    d) Medicina
 
@@ -74,7 +74,7 @@
     
    a) Comédia e romance
    
-   b) Suspense e drama histórico
+   $\color{red}{\text{b) Suspense e drama histórico}}$
    
    c) Terror e ficção científica
    
@@ -94,7 +94,7 @@
     
     a) Aviação civil
     
-    b) Guerra naval no Atlântico
+    $\color{red}{\text{b) Guerra naval no Atlântico}}$
     
     c) Exploração espacial
     
@@ -108,13 +108,13 @@
     
     c) Alemanha
     
-    d) Reino Unido
+    $\color{red}{\text{d) Reino Unido}}$
 
 12. A quebra dos códigos Enigma ajudou principalmente a:
     
     a) Prolongar a guerra
     
-    b) Acelerar o fim da guerra
+    $\color{red}{\text{b) Acelerar o fim da guerra}}$
     
     c) Fortalecer o exército alemão
     
@@ -124,7 +124,7 @@
     
     a) Rede nacional
     
-    b) Sigilo absoluto
+    $\color{red}{\text{b) Sigilo absoluto}}$
     
     c) Transmissão pública
     
@@ -136,7 +136,7 @@
     
     b) 1999
     
-    c) 2001
+    $\color{red}{\text{c) 2001}}$
     
     d) 2005
 
@@ -144,7 +144,7 @@
     
     a) Dan Brown
     
-    b) Robert Harris
+    $\color{red}{\text{b) Robert Harris}}$
     
     c) Stephen King
     
@@ -156,7 +156,7 @@
     
     b) União Soviética
     
-    c) Alemanha Nazista
+    $\color{red}{\text{c) Alemanha Nazista}}$
     
     d) Japão
 
@@ -164,7 +164,7 @@
     
     a) Biologia
     
-    b) Matemática
+    $\color{red}{\text{b) Matemática}}$
     
     c) Química
     
@@ -172,7 +172,7 @@
 
 18. O trabalho dos criptógrafos tinha impacto direto em:
     
-    a) Estratégias militares
+    $\color{red}{\text{a) Estratégias militares}}$
     
     b) Moda europeia
     
@@ -184,7 +184,7 @@
     
     a) Leveza e humor
     
-    b) Mistério e tensão
+    $\color{red}{\text{b) Mistério e tensão}}$
     
     c) Fantasia e aventura
     
@@ -196,7 +196,7 @@
     
     b) Relações familiares
     
-    c) Inteligência, espionagem e guerra
+    $\color{red}{\text{c) Inteligência, espionagem e guerra}}$
     
     d) Vida escolar
 
