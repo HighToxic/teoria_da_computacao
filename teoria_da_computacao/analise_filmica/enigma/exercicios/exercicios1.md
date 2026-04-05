@@ -90,6 +90,8 @@
    
    d) Alan Turing
 
+   $\color{red}{\text{e) Claire Romilly}}$
+
 10. A criptografia apresentada no filme está ligada principalmente à:
     
     a) Aviação civil
